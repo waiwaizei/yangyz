@@ -1,5 +1,5 @@
 # yangyz
-language:python
+language: python
 python:
--"3.6"
-script:python runut.py
+  - "3.6"
+script: python runut.py
